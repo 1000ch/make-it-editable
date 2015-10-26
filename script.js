@@ -1,1 +1,1 @@
-document.querySelector('html').contentEditable = true;
+document.body.contentEditable = true;
